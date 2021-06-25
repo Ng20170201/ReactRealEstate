@@ -22,6 +22,7 @@ grid-template-rows: 800px;
 `;
 
 
+
 const ColumnLeft= styled.div `
 display: flex;
 flex-direction: column;
